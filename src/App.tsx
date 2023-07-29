@@ -7,18 +7,10 @@ function App() {
   return (
     <div className="App">
         <Header />
-        <Aphorisms />
-        <Aphorisms />
-        <Aphorisms />
-        <Aphorisms />
-        <Aphorisms />
-        <Aphorisms />
-        <Aphorisms />
-        <Aphorisms />
-        <Aphorisms />
-        <Aphorisms />
-        <Aphorisms />
-        <Aphorisms />
+        <Aphorisms author={'author'} aphorism={'1dasdasdasdasdasdasdas231dasdasdasdasdasdasdas231dasdasdasdasdasdasdas231dasdasdasdasdasdasdas23'} />
+        <Aphorisms author={'author'} aphorism={'1dasdasdasdasdasdasdas231dasdasdasdasdasdasdas231dasdasdasdasdasdasdas231dasdasdasdasdasdasdas23'} />
+        <Aphorisms author={'author'} aphorism={'1dasdasdasdasdasdasdas231dasdasdasdasdasdasdas231dasdasdasdasdasdasdas231dasdasdasdasdasdasdas23'} />
+        <Aphorisms author={'author'} aphorism={'1dasdasdasdasdasdasdas231dasdasdasdasdasdasdas231dasdasdasdasdasdasdas231dasdasdasdasdasdasdas23'} />
     </div>
   );
 }
